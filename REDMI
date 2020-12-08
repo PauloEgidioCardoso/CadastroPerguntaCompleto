@@ -1,0 +1,15 @@
+Para rodar o aplicativo Mundo dos Números é necessário:
+
+1. Ter instalados o pacote Java Open JDK;
+
+2. Ter instalado o banco de dados PostgreSQL;
+
+3. Criar as tabelas do Banco de dados utilizando os dados do arquivo projeto_pi_jogo_ddl.sql;
+
+4. Executar no banco de dados os códigos do arquivo projeto_pi_jogo_dml.sql;
+
+5. Importar o arquivo src para uma IDE de sua preferencia e rodar o programa a partir da classe TODO. 
+
+6. Login Mundo dos Números
+   LOGIN = Admin
+   SENHA = 12345
